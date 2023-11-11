@@ -4,7 +4,7 @@ Welcome to my web developer portfolio! This repository serves as a showcase of m
 
 ## About Me
 
-I am a passionate and dedicated full-stack web developer with a love for creating beautiful and functional web applications. I have experience in a wide range of technologies and a strong focus on front-end and back-end development.
+I'm a dedicated full-stack web developer with a strong foundation in both front-end and back-end development, driven by a deep passion for creating functional web applications.
 
 - **Name:** Ganesh Moota
 - **Location:** Mumbai, India
