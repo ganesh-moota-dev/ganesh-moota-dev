@@ -13,11 +13,11 @@ I'm a dedicated full-stack web developer with a strong foundation in both front-
 
 ## Tech Stack
 
-Here are some of the technologies I work with:
+Here are some of the technologies I am familiar with:
 
 - **Front-end:** HTML, CSS, JavaScript, Vue, React
 - **Back-end:** Node.js, Express, C# Dotnet
-- **Databases:** MongoDB, MySQL, MySQL
+- **Databases:** MongoDB, MySQL
 - **DevOps:** Docker
 - **Version Control:** Git, GitHub, GitLab
 - **Other:** RESTful APIs, AWS
