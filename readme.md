@@ -4,7 +4,7 @@
 ---
 
 ## Professional Summary
-Senior Full-Stack Developer with 3.5+ years of experience in building scalable, high-performance applications, primarily in the Ed-Tech domain. Specializing in frontend development with VueJS, with backend expertise in .NET (C#), and proficiency in ReactJS, Java, and Python. Experienced in microservices architecture, AWS, and DevOps practices, including Docker, Kubernetes, and Terraform. Strong background in SDK development, API integrations, and performance testing with K6. Passionate about optimizing system efficiency, enhancing user experiences, and driving product success through collaboration and leadership.
+- Senior Full-Stack Developer with 3.5+ years of experience in building scalable, high-performance applications, primarily in the Ed-Tech domain. Specializing in frontend development with VueJS, with backend expertise in .NET (C#), and proficiency in ReactJS, Java, and Python. Experienced in microservices architecture, AWS, and DevOps practices, including Docker, Kubernetes, and Terraform. Strong background in SDK development, API integrations, and performance testing with K6. Passionate about optimizing system efficiency, enhancing user experiences, and driving product success through collaboration and leadership.
 ---
 
 ## Technical Skills
