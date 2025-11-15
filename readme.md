@@ -1,10 +1,9 @@
 # Ganesh Moota  
 **Email:** ganesh.moota.dev@gmail.com | [LinkedIn Profile](https://linkedin.com/in/ganesh-moota)
-
----
+<br />
 
 ## Professional Summary
-Results-driven Senior Full Stack Developer with 4+ years of experience in building and scaling robust web applications from the ground up. Expertise in designing and implementing end-to-end solutions, and committed to taking complete ownership of modules from initial concept to deployment.
+- Results-driven Senior Full Stack Developer with 4+ years of experience in building and scaling robust web applications from the ground up. Expertise in designing and implementing end-to-end solutions, and committed to taking complete ownership of modules from initial concept to deployment.
 ---
 
 ## Technical Skills
